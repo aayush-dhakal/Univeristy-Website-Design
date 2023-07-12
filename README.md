@@ -1,2 +1,2 @@
 ## Live
-https://aayush-dhakal.github.io/Univeristy-Wesite-Design/
+https://aayush-dhakal.github.io/Univeristy-Website-Design/
